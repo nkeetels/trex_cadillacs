@@ -9,4 +9,4 @@ T-Rex &amp; Cadillacs is a Commodore 64 game for Secret Santa 2025
 
 
 # Gameplay
-<img src="https://github.com/nkeetels/trex_cadillacs/blob/main/screenshots/title.png" width="30%" height="30%"></img>
+<img src="https://github.com/nkeetels/trex_cadillacs/blob/main/screenshots/gameplay.png" width="30%" height="30%"></img>
